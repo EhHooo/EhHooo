@@ -1,0 +1,50 @@
+.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
+.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-size: contain !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    left: 9px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: .8;
+}
+.side-8zPYf6 .item-PXvHYJ {padding-left: 35px;}
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
+
+/* discord settings */
+.side-8zPYf6 .item-PXvHYJ[aria-controls="My Account-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/account.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Profile Customization-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/profile.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Privacy & Safety-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/privacy.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Authorized Apps-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/apps.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Connections-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/connection.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Discord Nitro-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/nitro.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Discord Nitro-tab"] svg {display: none;}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Nitro Server Boost-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/boost.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Billing-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/billing.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Library Inventory-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/giftbox.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Appearance-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/appearance.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Accessibility-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/accesibility.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Voice & Video-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/microphone.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Text & Images-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/text.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Notifications-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/notification.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Keybinds-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/keyboard.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Language-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/language.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Windows-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/windows.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Streamer Mode-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/streamer.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Advanced-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/settings.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Game Activity-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/activity.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Overlay-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/overlay.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="changelog-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/changelog.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Hypesquad Online-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/hype.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="logout-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/logout.png');}
+
+
+/* better discord settings */
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Settings-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/bdsettings.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="customcss-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/css.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="plugins-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/plugin.png');}
+.side-8zPYf6 .item-PXvHYJ[aria-controls="themes-tab"]::before {background-image: url('https://limeshark.dev/img/bdi/theme.png');}
